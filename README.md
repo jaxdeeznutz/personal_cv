@@ -36,4 +36,7 @@ The purpose of this project is to create a personal online CV that presents my i
 
 ---
 
+## Update
+
+Personal CV website updated using HTML and CSS.
 © 2026 Jaspher Dave Danzalan
