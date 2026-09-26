@@ -14,8 +14,8 @@ This website was created as part of my activity in developing a personal CV webp
 **Year Level:** 4th Year  
 **Program:** Bachelor of Science in Information Technology  
 **School:** Davao del Norte State College  
-**Set/Section:** [Your Set/Section]  
-**Subject:** [Your Subject]
+**Set/Section:** 4B 
+**Subject:** IT415
 
 ## Technologies Used
 
